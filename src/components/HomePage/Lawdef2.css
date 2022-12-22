@@ -1,0 +1,134 @@
+.text2{
+    font-family: Raleway;
+    line-height: 1.5;
+    letter-spacing: 0;
+    font-style: normal;
+    --fontSize: 40;
+    line-height: 1.5;
+    color: #333;
+    text-align: center!important;
+    font-weight: 300!important;
+    font-size: 40px!important;
+}
+.icon2{
+    color: rgb(0, 183, 255);
+    margin-top: -6.5vh;
+}
+.hrline{
+    height: 2px;
+    width: 135vh;
+    margin-left: 35vh;
+    font-weight: 1200;
+    /* box-shadow: 0px 0px 30px black; */
+}
+/* ________________________________________ */
+
+.text5 {
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 25vh;
+}
+
+.text6 {
+    font-size: larger;
+    font-weight: 600;
+    color: red;
+    margin-left: 49.5vh;
+    margin-top: -5.5vh;
+}
+
+.text7 {
+    font-weight: 800;
+    margin-left: 57vh;
+    margin-top: -25px;
+}
+
+
+
+.text8 {
+    margin-top: -50px;
+}
+
+
+.h-100 {
+    width: 80%;
+    /* height: 30%; */
+    /* text-align: center; */
+    margin-bottom: 30px;
+    font-size: small;
+    background-color: white;
+    margin:1rem;
+    padding: 0vh;
+    display: flex;
+    height:45vh;
+}
+.h-100:hover{
+    background-color: rgb(168, 199, 211);
+}
+.l2icon1{
+    font-size: 7vh;
+}
+.l2icon1:hover{
+    color: rgb(0, 183, 255);
+}
+.l2icon2{
+    color: white;
+    margin-top: -19vh;
+    font-size: 4vh;
+}
+
+.l2icon3{
+    color: white;
+    margin-top: -20vh;
+    font-size: 4vh;
+}
+.l2icon4{
+    color: white;
+    margin-top: -20vh;
+    font-size: 4vh;
+}
+.l2icon5{
+    color: white;
+    margin-top: -20vh;
+    font-size: 4vh;
+}
+.l2icon6{
+    color: white;
+    margin-top: -20vh;
+    font-size: 4vh;
+}
+.card-title{
+    margin-top: -8vh;
+    font-size: 22px;
+    line-height: 1.23;
+    --fontSize: 22;
+    --minFontSize: 22;
+    font-family: Raleway;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0;
+    font-style: normal;
+    border-radius: 5px;
+}
+.card-title:hover{
+    color: rgb(0, 183, 255);
+}
+.card-text{
+    font-family: Raleway;
+    font-weight: 400;
+    letter-spacing: 0;
+    font-style: normal;
+    font: 13px/20px PTSansRegular,Arial,Helvetica,sans-serif;
+}
+.card-text:hover{
+    color: blanchedalmond;
+}
+.body{
+    background-color: #d8d8d8;
+    width:99%;
+    height: 110%;
+}
+.ptext{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

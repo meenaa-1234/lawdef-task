@@ -1,0 +1,73 @@
+.img5{
+    height: 20vh;
+    width: 20vh;
+}
+.img6{
+    height: 20vh;
+    width: 20vh;
+}
+.img7{
+    height: 20vh;
+    width: 20vh; 
+}
+.h-101{
+    width: 59vh;
+    margin-left: 11px;
+    border: 1px solid white;
+}
+.body1{
+    width: 99%;
+}
+.card-title1{
+    font-size: 18px;
+    line-height: 1.28;
+    --fontSize: 18;
+    --minFontSize: 18;
+    font-family: Raleway;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0;
+    font-style: normal;
+    color: #333333;
+    transition: all .3s;
+}
+.card-text1{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #747474;
+    text-align: center;
+    --viewportWidth: 1280;
+
+}
+.card-title1:hover{
+    color: rgb(0, 183, 255);
+}
+.img9{
+    width:100%;
+}
+.btn{
+    border: 2px solid rgba(0,174,239,.85);
+    background-color: rgba(0,174,239,.85);
+    margin-top: -68vh;
+    width:24vh;
+    height: 7.4vh;
+    color: white;
+    font-family: Raleway;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0;
+    border-width: 0;
+    border-style: solid;
+    border-radius: 2px;
+    text-transform: uppercase;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    margin-left: -2px;
+}
+.btn:hover{
+    background-color: rgba(3, 169, 229, 0.35);
+    color: white;
+}

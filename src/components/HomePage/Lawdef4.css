@@ -1,0 +1,76 @@
+.body4{
+    background-color: #404142;
+    width: 99%;
+}
+.h-102{
+    background-color:  #404142;
+    color:white;
+    border:0.2px solid  #404142;
+    border-right-color: rgb(112, 112, 112);
+    height: 75vh;
+    /* width: 99%; */
+}
+.card-text2{
+    /* padding: 5vh; */
+    line-break: 2rem;
+    display: block;
+    --viewportWidth: 1280;
+    line-height: 2.2;
+    font-size: 16px;
+    font-family: Raleway;
+    font-weight: 400;
+    letter-spacing: 0;
+    font-style: normal;
+    text-align: left;
+    list-style: none;
+    cursor: pointer;
+}
+.card-text2:hover{
+    color:rgb(0, 183, 255);
+}
+
+.card-title2{
+    text-align: left;
+    list-style: none;
+    -webkit-text-size-adjust: 100%;
+    font: 13px/20px PTSansRegular,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+}
+.card-text3{
+    line-break: 2rem;
+    display: block;
+    --viewportWidth: 1280;
+    line-height: 1.2;
+    font-size: 16px;
+    font-family: Raleway;
+    font-weight: 400;
+    letter-spacing: 0;
+    font-style: normal;
+    text-align: left;
+    list-style: none;
+
+}
+.card-text4{
+    font-size: 20px;
+    list-style: none;
+    display: block;
+    text-align: left;
+}
+.footer{
+    background-color: #2e2e2f;
+    height: 11vh;
+    width: 99%;
+    color: white;
+    position: relative;
+    z-index: 10;
+}
+.ftext{
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: Raleway;
+    font-weight: 400;
+    letter-spacing: 0;
+    font-style: normal;
+    
+}
